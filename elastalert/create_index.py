@@ -181,7 +181,7 @@ def main():
                 },
                 'match_body': {
                     'type': 'object',
-                    'enabled': False,
+                    'enabled': True,
                 },
                 'aggregate_id': mapping,
             },
